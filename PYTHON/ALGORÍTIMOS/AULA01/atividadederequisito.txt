@@ -1,0 +1,15 @@
+
+SITE: AMERICANAS.COM
+
+RFs
+1 - permitir pesquisar um produto
+2 - permite fazer login para acessar
+3 - permite favoritar produtos
+4 - permite adicionar produtos ao carrinho
+5 - permite adicionar o endereço
+
+RNFs
+
+1 - capacidade de armazenamento no carrinho
+2 - cadastro protegido por criptografia
+3 - disponivel 24 horas
